@@ -1,0 +1,232 @@
+{
+  "seller": [
+    {
+      "name": "Saiful Mansoori",
+      "email": "saifulmansoori777@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Naman Jain",
+      "email": "naman777@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Areean",
+      "password": "abc@123",
+      "email": "abc@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Kohli",
+      "password": "abc@123",
+      "email": "kohli@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "lapko",
+      "password": "abc@123",
+      "email": "lapko@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "lapko",
+      "password": "abc@123",
+      "email": "lapko@gmail.com",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Maruti alto",
+      "price": "400000",
+      "color": "black",
+      "category": "Car",
+      "description": "It is very cheap car",
+      "image": "assets/images/car1.jpg",
+      "id": 2
+    },
+    {
+      "name": "tvs Raider",
+      "price": "90000",
+      "color": "red",
+      "category": "bike",
+      "description": "It is very stylish bike in budget",
+      "image": "assets/images/bike.jpg",
+      "id": 3
+    },
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/mobile.jpg",
+      "id": 4
+    },
+    {
+      "name": "One plus tv",
+      "price": "20000",
+      "color": "bluevoilet",
+      "category": "Electronics",
+      "description": "It is edgy curve tv",
+      "image": "assets/images/tv.jpg",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@123gmail.com",
+      "password": "anil@1234",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "peter@1234",
+      "id": 2
+    },
+    {
+      "name": "Kamal",
+      "email": "kamal@gmail.com",
+      "password": "Kamal@1234",
+      "id": 3
+    },
+    {
+      "name": "Rohit",
+      "email": "Rohit@gmail.com",
+      "password": "Rohit@1234",
+      "id": 4
+    },
+    {
+      "name": "saiful",
+      "email": "saiful@gmail.com",
+      "password": "S@iful@1234",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/tv.jpg",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 2
+    },
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/mobile.jpg",
+      "quantity": 3,
+      "productId": 4,
+      "userId": null,
+      "id": 9
+    },
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/mobile.jpg",
+      "quantity": 3,
+      "productId": 4,
+      "userId": null,
+      "id": 10
+    },
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/mobile.jpg",
+      "quantity": 3,
+      "productId": 4,
+      "userId": null,
+      "id": 11
+    },
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/mobile.jpg",
+      "quantity": 3,
+      "productId": 4,
+      "userId": null,
+      "id": 12
+    },
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/mobile.jpg",
+      "quantity": 3,
+      "productId": 4,
+      "userId": null,
+      "id": 13
+    },
+    {
+      "name": "Real me ",
+      "price": "8000",
+      "color": "black",
+      "category": "Mobile",
+      "description": "It is value money phone in budget",
+      "image": "assets/images/mobile.jpg",
+      "quantity": 3,
+      "productId": 4,
+      "userId": null,
+      "id": 14
+    },
+    {
+      "name": "One plus tv",
+      "price": "20000",
+      "color": "bluevoilet",
+      "category": "Electronics",
+      "description": "It is edgy curve tv",
+      "image": "assets/images/mobile.jpg",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 5,
+      "id": 15
+    }
+  ],
+  "orders": [
+    {
+      "email": "saifulmansoori777@gmail.com",
+      "address": "bholepur",
+      "contact": "7786029131",
+      "totalprice": 600100,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "mohdtalib4010@gmail.com",
+      "address": "Kannauj",
+      "contact": "8447303021",
+      "totalprice": 600100,
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}
